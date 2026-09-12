@@ -1,11 +1,11 @@
 # ⚙️ DevOps Lab App
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.x-000000?logo=flask&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployment-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white&style=for-the-badge)](https://www.jenkins.io/)
+[![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-blue.svg?style=for-the-badge)](LICENSE)
 
 A lightweight Flask-based sample application used as the deployment target in a DevOps lab environment. The repository demonstrates a simple containerized web service that can be built with Docker, run locally with Docker Compose, and deployed into a Kubernetes cluster through a Jenkins CI/CD pipeline.
 
