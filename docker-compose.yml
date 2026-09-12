@@ -1,0 +1,7 @@
+name: flask
+services:
+  web-app:
+    build: .
+    container_name: webapp-container
+    ports:
+      - "8000:8000"
